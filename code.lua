@@ -22,3 +22,4 @@ else if text == radio_help then
 	print("stop - Стоп")
 	print("volu/vold - Прибавить/Убавить")
 end
+end
